@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: black;
+    position: relative;
+    width: 100%;
+    height: 70px;
+    margin: 0;
+    font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+}
+.premium{
+    color: #fff; 
+    text-decoration: none; 
+    font-size: 16px; 
+    font-weight: 600; 
+    margin-top: 30px; 
+    position: absolute; 
+    margin-left: 580px;
+}
+.support{
+    color: #fff;
+     text-decoration: none; 
+     font-size: 16px; 
+     font-weight: 600;
+      margin-top: 30px; 
+      position: absolute;
+       margin-left: 680px;
+}
+.download{
+    color: #fff;
+     text-decoration: none; 
+     font-size: 16px;
+      font-weight: 600;
+       margin-top: 30px; 
+       position: absolute;
+        margin-left: 780px;
+}
+.line{
+    color: #fff;  
+    text-decoration: none; 
+    font-size: 16px; font-weight: 600;
+     margin-top: 30px; 
+     position: absolute;
+      margin-left: 900px;
+}
+.signup{
+    color: #fff;
+     text-decoration: none; 
+     font-size: 16px; 
+     font-weight: 600; 
+     margin-top: 30px;
+      position: absolute;
+       margin-left: 940px; 
+       opacity: 0.5;
+}
+.login{
+    color: #fff; 
+    text-decoration: none; 
+    font-size: 16px;
+     font-weight: 600;
+      margin-top: 30px;
+       position: absolute;
+        margin-left: 1040px;
+         opacity: 0.5;
+}
+.secondheader{
+        background-color: #1d75de;
+        position: relative;
+        width: 100%;
+        height: 470px;
+        margin: 0;
+        font-family: Circular,spotify-circular,Helvetica,Arial,sans-serif;
+}
+.head1{
+    margin-top: 120px;
+     position: absolute; 
+     margin-left: 400px; 
+     font-weight: 700; 
+     letter-spacing: 2px;
+      color: #fff; 
+      font-size: 45px; 
+      font-family: 'IBM Plex Sans', sans-serif;
+}
+.head2{
+    position: absolute;
+     margin-top: 210px; 
+     margin-left: 260px; 
+     color: #fff; 
+     font-size: 30px;
+}
+.btn1{
+    position: absolute; 
+    background-color: black; 
+    border:0; 
+    border-color: black;
+     border-radius: 100px;
+      color: #fff; 
+      margin-top: 280px; 
+      width: 180px;
+       height: 50px; 
+       font-weight: 700;
+        margin-left: 530px;
+}
+.btn2{
+    position: absolute; 
+    background-color: #1d75de;
+     border-color: #fff; 
+     border-radius: 100px;
+      color: #fff; 
+      margin-top: 280px; 
+      width: 180px;
+       height: 50px;
+        font-weight: 700;
+         margin-left: 740px;
+}
+.terms{
+    color: #fff; 
+     line-height: 1rem; 
+     font-size: 0.6875rem;
+      font-weight: 400;
+       position: absolute; 
+       margin-top: 380px;
+       margin-left: 477px;
+}
+.month{
+    color: #fff;
+      line-height: 1rem; 
+      font-size: 0.6875rem;
+       font-weight: 400; 
+       position: absolute;
+        margin-top: 380px; 
+        margin-left: 614px;
+}
+.section{
+    width: 100%;
+    height: 500px;
+ background-color: #b49bc8;
+    position: absolute;
+    margin: 0;
+}
+.sectionpara1{
+    color: black; 
+    font-weight: 500; 
+    font-size: 30px;
+     margin-left: 650px;
+      letter-spacing: 3px; 
+      position: absolute;
+       margin-top: 180px
+}
+.sectionpara2{
+    color: black;
+     font-weight: 500;
+      font-size: 30px;
+       margin-left: 630px; 
+       letter-spacing: 3px;
+        position: absolute; 
+         margin-top: 230px
+}
+.minibutton{
+    position: absolute;
+    background-color: black;
+    color: #b49bc8;
+    width: 120px;
+    height: 50px;
+    border: 0;
+    border-color: #b49bc8;
+    margin-left: 690px;
+    border-radius: 105px;
+    margin-top: 300px;
+}
+.feature{
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    background-color: #fff;
+    margin: 0;
+    margin-top: 450px;
+}
+.music{
+    width: 100%;
+    height: 600px;
+    position: absolute;
+   background-color: #eeeeee;
+   margin: 0;
+   margin-top: 1000px;
+}
